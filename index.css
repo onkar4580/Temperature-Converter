@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-div{
+    font-family: 'Mulish', sans-serif;    
+    width: 100%;
+    height: 100vh;
+    background-color: grey;
+    text-align: center;
+}
+
+.container{
+    font-family: 'Mulish', sans-serif;
+    width: 50%;
+    height: 40vh;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border-radius: 12px;  
+}
+
+.submitBtn{
+    font-family: 'DynaPuff', cursive;
+    width: 150px;
+    height: 50px;
+    border-radius: 16px;
+    background-color: black;  
+    color: white;  
+    font-size: 20px;
+    cursor: pointer;   
+}
+
+.submitBtn:hover{
+    background-color:red;
+    cursor: pointer;   
+}
